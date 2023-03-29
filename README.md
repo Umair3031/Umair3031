@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Umair3031
-- 👀 I’m interested in ...Web Devlopement and C Programming
+- 👀 I’m interested in ...App Devlopement and Machine Learning
 - 🌱 I’m currently learning ...Programming
-- 💞️ I’m looking to collaborate on ...Web Devlopment
-- 📫 How to reach me ...mail on - md.umair8874@gmail.com
+- 💞️ I’m looking to collaborate on ...App Devlopment
+- 📫 How to reach me ...mail on - umairs3031@gmail.com
 
 <!---
 Umair3031/Umair3031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
