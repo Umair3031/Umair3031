@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate **Computer Vision Engineer** and
 
 ## 🌟 About Me
 
-- 🎓 **Pursuing MS in Computer Science** (Fall 2024) – Looking forward to studying at Illinois Tech/University of Illinois Chicago.
+- 🎓 **B.Tech CSE Graduate** (2020-2024) – Recent gradute from Assam Don Bosco University.
 - 💼 **Current Interests:** Computer Vision, Data Science, Cloud Services, and Open Source Contributions.
 - 📈 **Notable Projects:** 
   - **Cancer Detection using Histopathological Images**: Leveraged machine learning for accurate cancer predictions.
