@@ -1,20 +1,27 @@
-# 👋 Hi there, I'm Mohd Umair Ali!
+# Mohd Umair Ali — Computer Vision Engineer · Data Scientist · Analyst
 
-Welcome to my GitHub profile! I am a passionate **Computer Vision Engineer** and **Data Scientist** with a keen interest in **Artificial Intelligence**, **Augmented Reality**, and **Predictive Analytics**. I thrive on building innovative solutions that bridge technology and real-world applications.
+> Data-driven engineer building robust computer-vision models, AR experiences and production-ready ML pipelines. I focus on turning noisy data into reliable, explainable insights that product teams can ship.
 
 ---
 
-## 🌟 About Me
+## Snapshot
+- 🎓 **B.Tech in Computer Science & Engineering (2020–2024)**  
+- 📍 **Based in India** — open to remote & global opportunities  
+- 🔭 **Primary focus:** Computer Vision, Predictive Analytics, ML Productization, Augmented Reality  
+- 🧰 **Tech & Tools:** Python · TensorFlow · Keras · PyTorch · OpenCV · NumPy · pandas · scikit-learn · SQL · Docker · Git · Figma · (GCP / Azure basics)
 
-- 🎓 **B.Tech CSE Graduate** (2020-2024) – Recent gradute.
-- 💼 **Current Interests:** Computer Vision, Data Science, Cloud Services, and Open Source Contributions.
-- 📈 **Notable Projects:** 
-  - **Cancer Detection using Histopathological Images**: Leveraged machine learning for accurate cancer predictions.
-  - **AR-Based Tourism Guide**: Developed an interactive app with virtual 3D models and a virtual assistant named **JOJO**.
-  - **elook.ai**: A lead-generation tool for WhatsApp campaigns and automation bots.
-- 🌱 **Learning:** Exploring more about cloud services and gaining hands-on experience.
-- 🎯 **Open Source:** Actively contributing to open-source projects and participating in developer communities.
-- 📍 **Based in:** India, with a global outlook on technology and innovation.
+---
+
+## Achievements & Community
+- 🏆 **Google’s Gen AI Intensive Course** – Earned a badge on Kaggle.
+- 💻 **AR-based Virtual Assistant for Tourism** – Recognized for innovative use of AR in tourism.
+- 🎓 **Data Science and Computer Vision Projects** – Gained extensive experience in predictive modeling and automation.
+
+---
+
+## Looking For
+- Roles: Computer Vision Engineer, Data Scientist / Predictive Analyst, ML Engineer, Research/Industry collaborations.  
+- Projects: Healthcare imaging, AR-enabled experiences, product-focused ML with measurable impact.
 
 ---
 
@@ -44,14 +51,6 @@ Welcome to my GitHub profile! I am a passionate **Computer Vision Engineer** and
 - **[Cancer Detection Project](https://github.com/mohd-umair-ali/cancer-detection)** – Machine learning model for accurate diagnosis.
 - **[AR Tourism Guide](https://github.com/mohd-umair-ali/ar-tourism-guide)** – Augmented reality-based virtual assistant.
 - **[elook.ai](https://github.com/mohd-umair-ali/elook-ai)** – Lead generation tool for WhatsApp campaigns.
-
----
-
-## 🎖️ Achievements & Certifications
-
-- 🏆 **Google’s Gen AI Intensive Course** – Earned a badge on Kaggle.
-- 💻 **AR-based Virtual Assistant for Tourism** – Recognized for innovative use of AR in tourism.
-- 🎓 **Data Science and Computer Vision Projects** – Gained extensive experience in predictive modeling and automation.
 
 ---
 
